@@ -1,3 +1,3 @@
 # TP1
 
-INTEGRANTES: <Belen>, <Carolina>, <Rafael>
+INTEGRANTES: <"Belen Tobares">, <"Carolina Calvo">, <"Rafael Machado">
