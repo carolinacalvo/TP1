@@ -1,3 +1,3 @@
 # TP1
 
-INTEGRANTES: <Belen Tobares>, <Carolina Calvo>, <Rafael Machado>
+INTEGRANTES: <Belen>, <Carolina>, <Rafael>
